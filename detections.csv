@@ -1,0 +1,99 @@
+timestamp,class_name,confidence,action,reason,alert_level
+2026-04-25T11:00:14,red light,0.8967,CAUTION,Label 'Red Light' not in ruleset.,MEDIUM
+2026-04-25T11:00:15,red light,0.6144,CAUTION,Label 'Red Light' not in ruleset.,MEDIUM
+2026-04-25T11:00:16,red light,0.7203,CAUTION,Label 'Red Light' not in ruleset.,MEDIUM
+2026-04-25T11:00:17,other,0.9961,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:00:18,obstacle,0.5486,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:19,other,0.5213,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:00:20,obstacle,0.9713,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:21,other,0.9574,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:00:22,other,0.7991,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:00:23,obstacle,0.6047,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:24,obstacle,0.9232,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:25,obstacle,0.5696,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:26,obstacle,0.9861,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:27,obstacle,0.9674,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:28,obstacle,0.9018,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:29,obstacle,0.9392,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:30,obstacle,0.9928,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:31,obstacle,0.9627,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:32,obstacle,0.9997,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:33,obstacle,1.0000,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:34,obstacle,0.9056,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:36,obstacle,0.9576,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:37,obstacle,0.9939,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:38,obstacle,0.5507,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:39,other,0.7706,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:00:40,obstacle,0.9563,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:41,obstacle,0.9998,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:42,obstacle,0.9980,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:43,obstacle,0.9969,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:44,other,0.9011,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:00:45,obstacle,0.7806,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:46,obstacle,0.9932,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:47,obstacle,0.9309,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:48,obstacle,0.9709,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:49,obstacle,0.9290,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:50,obstacle,0.9532,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:00:51,other,0.9993,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:00:52,other,0.9999,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:00:53,other,0.9999,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:00:55,other,0.9998,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:00:56,red light,0.8433,CAUTION,Label 'Red Light' not in ruleset.,MEDIUM
+2026-04-25T11:00:57,other,0.6838,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:00:58,red light,0.7599,CAUTION,Label 'Red Light' not in ruleset.,MEDIUM
+2026-04-25T11:00:59,red light,0.9979,CAUTION,Label 'Red Light' not in ruleset.,MEDIUM
+2026-04-25T11:01:00,red light,0.9434,CAUTION,Label 'Red Light' not in ruleset.,MEDIUM
+2026-04-25T11:01:01,red light,0.7250,CAUTION,Label 'Red Light' not in ruleset.,MEDIUM
+2026-04-25T11:01:02,other,0.6888,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:03,red light,0.8741,CAUTION,Label 'Red Light' not in ruleset.,MEDIUM
+2026-04-25T11:01:04,red light,0.5185,CAUTION,Label 'Red Light' not in ruleset.,MEDIUM
+2026-04-25T11:01:05,other,0.9276,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:06,other,0.9997,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:07,other,0.9998,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:08,other,0.9999,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:09,other,0.9998,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:10,other,0.9998,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:11,other,0.9933,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:12,obstacle,0.9348,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:13,obstacle,0.9253,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:15,other,0.9993,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:16,other,0.9991,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:17,other,0.9850,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:18,obstacle,0.9991,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:19,obstacle,0.9866,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:20,obstacle,0.9912,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:21,obstacle,0.9526,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:22,obstacle,0.9931,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:23,obstacle,1.0000,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:24,obstacle,0.9990,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:25,obstacle,0.9922,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:26,other,0.8065,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:27,other,0.8678,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:28,obstacle,0.9989,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:29,other,0.9812,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:30,obstacle,1.0000,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:31,obstacle,1.0000,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:33,other,0.9930,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:34,other,0.9395,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:35,green light,0.8553,CAUTION,Label 'Green Light' not in ruleset.,MEDIUM
+2026-04-25T11:01:36,green light,0.7787,CAUTION,Label 'Green Light' not in ruleset.,MEDIUM
+2026-04-25T11:01:37,obstacle,0.6068,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:38,obstacle,0.5768,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:39,obstacle,0.9228,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:40,obstacle,0.9903,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:41,red light,0.5622,CAUTION,Label 'Red Light' not in ruleset.,MEDIUM
+2026-04-25T11:01:42,obstacle,0.9299,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:43,obstacle,0.9987,STOP,Obstacle detected ahead — stop or yield.,HIGH
+2026-04-25T11:01:44,other,0.9942,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:45,other,0.7675,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:46,other,0.9990,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:47,other,0.9938,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:48,other,0.9978,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:49,other,0.9976,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:50,other,0.9896,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:51,other,0.9766,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:52,other,0.8123,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:54,other,0.9923,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:55,other,0.9893,CAUTION,Label 'Other' not in ruleset.,MEDIUM
+2026-04-25T11:01:56,other,0.9976,CAUTION,Label 'Other' not in ruleset.,MEDIUM
